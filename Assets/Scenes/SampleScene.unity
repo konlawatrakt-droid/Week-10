@@ -262,7 +262,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4387678931267766, guid: 1818e1a170ef94c3aacee2ba50057521, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 8.7
+      value: 19.74
       objectReference: {fileID: 0}
     - target: {fileID: 4387678931267766, guid: 1818e1a170ef94c3aacee2ba50057521, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1280,7 +1280,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Gravitation
   planet: 1
-  orbitSpeed: 1000
+  orbitSpeed: 20
 --- !u!54 &1721993518
 Rigidbody:
   m_ObjectHideFlags: 0
